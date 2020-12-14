@@ -18,7 +18,8 @@ Day7 SE04
 - Khách hàng có thể hủy đặt phòng (miên phí) nếu hủy trước ngày đến. Nếu khách hàng hủy sau ngày đặt thì khách hàng bị lưu vào danh sách đen và có thể bị từ chối đặt phòng trong các lần tiếp theo.
 
 2. Business Objectives:
-- Hoàn thành các prototype đạt được các yêu cầu đề ra của khách hàng trong 2 tuần.
-- Hoàn thiện và cài đặt phần mềm trên các máy tính của hệ thống khách sạn trong 2 tháng.
-- Hoàn thành quá trình chạy thử, fix các bug phát sinh trong quá trình chạy thử nghiệm sản phẩm (Dự kiến 2 tuần).
-- Bàn giao sản phẩm cho khách hàng, kết thúc project (Dự kiến tổng thời gian hoàn thành project là 3 tháng).
+- Dự kiến tổng thời gian hoàn thành project là 3 tháng.
+  - Hoàn thành các prototype đạt được các yêu cầu đề ra của khách hàng trong 2 tuần.
+  - Hoàn thiện và cài đặt phần mềm trên các máy tính của hệ thống khách sạn trong 2 tháng.
+  - Hoàn thành quá trình chạy thử, fix các bug phát sinh trong quá trình chạy thử nghiệm sản phẩm (Dự kiến 2 tuần).
+  - Bàn giao sản phẩm cho khách hàng, kết thúc project 
